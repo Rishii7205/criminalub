@@ -68,7 +68,7 @@ def main():
 
     suc_msg = """
             ----------------------------------------------------------------------
-                Ultroid has been deployed! Visit @TheUltroid for updates!!
+                Ultroid has been deployed! Visit @about_rish for updates!!
             ----------------------------------------------------------------------
     """
 
@@ -101,7 +101,7 @@ def main():
         pass
 
     LOGS.info(
-        f"Took {time_formatter((time.time() - start_time)*1000)} to start •ULTROID•"
+        f"Took {time_formatter((time.time() - start_time)*1000)} to start •𝐂𝐑𝐈𝐌𝐈𝐍𝐀𝐋 𝐔𝐁•"
     )
     LOGS.info(suc_msg)
 
