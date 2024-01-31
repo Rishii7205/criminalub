@@ -32,8 +32,8 @@ from . import _ult_cache
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/TeamUltroid/Ultroid"),
-        Button.url("• Support •", url="t.me/UltroidSupportChat"),
+        Button.url("• 𝐎𝐰𝐧𝐞𝐫 •", url="https://github.com/rishii7205/criminalub"),
+        Button.url("• 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 •", url="t.me/the_world_of_unknown"),
     ],
 ]
 
