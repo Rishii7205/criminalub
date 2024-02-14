@@ -44,7 +44,7 @@ from . import *
 # -------------------------- Akinator ----------------------- #
 
 games = {}
-aki_photo = "https://graph.org/file/3cc8825c029fd0cab9edc.jpg"
+aki_photo = "https://te.legra.ph/file/b533397c594c0c2df6224.jpg"
 
 
 @ultroid_cmd(pattern="akinator")
