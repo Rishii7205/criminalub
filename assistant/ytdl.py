@@ -36,7 +36,7 @@ except ImportError:
     VideosSearch = None
 
 
-ytt = "https://graph.org/file/2f160e70e4b2807f5e3af.jpg"
+ytt = "https://te.legra.ph/file/b533397c594c0c2df6224.jpg"
 _yt_base_url = "https://www.youtube.com/watch?v="
 BACK_BUTTON = {}
 
