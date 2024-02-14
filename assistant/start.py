@@ -29,7 +29,7 @@ if Owner_info_msg is None:
 
 **Message Forwards** - {udB.get_key("PMBOT")}
 
-**Ultroid [v{ultroid_version}](https://github.com/RISHII7205/CRIMINALUB), powered by @TeamUltroid**
+**Ultroid [v{ultroid_version}](https://github.com/RISHII7205/CRIMINALUB), powered by @FEEL_THE_POWER_OF_UR_DAD**
 """
 
 
@@ -68,7 +68,7 @@ async def own(event):
         mention=event.sender.mention, me=inline_mention(ultroid_bot.me)
     )
     if custom_info:
-        msg += "\n\n• Powered by **@TeamUltroid**"
+        msg += "\n\n• Powered by **@FEEL_THE_POWER_OF_UR_DAD**"
     await event.edit(
         msg,
         buttons=[Button.inline("Close", data="closeit")],
@@ -113,7 +113,7 @@ async def ultroid(event):
             if udB.get_key("PMBOT"):
                 ok = "You can contact my master using this bot!!\n\nSend your Message, I will Deliver it To Master."
             await event.reply(
-                f"Hey there {mention}, this is Ultroid Assistant of {me}!\n\n{ok}",
+                f"Hey there {mention}, this is 𝐆𝐇𝐎𝐒𝐓 Assistant of {me}!\n\n{ok}",
                 file=udB.get_key("STARTMEDIA"),
                 buttons=[Button.inline("Info.", data="ownerinfo")]
                 if Owner_info_msg
