@@ -10,35 +10,28 @@ import re
 from . import *
 
 STRINGS = {
-    1: """🎇 **Thanks for Deploying Ultroid Userbot!**
+    1: """🎇 **Thanks for Deploying Criminals Userbot!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage.""",
-    2: """🎉** About Ultroid**
+    2: """🎉** 𝐀𝐛𝐨𝐮𝐭 𝐔𝐬𝐞𝐫𝐛𝐨𝐭**
 
-🧿 Ultroid is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
+🧿 𝐂𝐫𝐢𝐦𝐢𝐧𝐚𝐥𝐬 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
 
-❣ Made by **@TeamUltroid**""",
-    3: """**💡• FAQs •**
+❣ Made by **@FEEL_THE_POWER_OF_UR_DAD**""",
+    3: """**💡• About •**
 
--> [Username Tracker](https://t.me/UltroidUpdates/24)
--> [Keeping Custom Addons Repo](https://t.me/UltroidUpdates/28)
--> [Disabling Deploy message](https://t.me/UltroidUpdates/27)
--> [Setting up TimeZone](https://t.me/UltroidUpdates/22)
--> [About Inline PmPermit](https://t.me/UltroidUpdates/21)
--> [About Dual Mode](https://t.me/UltroidUpdates/18)
--> [Custom Thumbnail](https://t.me/UltroidUpdates/13)
--> [About FullSudo](https://t.me/UltroidUpdates/11)
--> [Setting Up PmBot](https://t.me/UltroidUpdates/2)
--> [Also Check](https://t.me/UltroidUpdates/14)
+-> [owner](https://t.me/FEEL_THE_POWER_OF_UR_DAD)
+-> [Channel](https://t.me/about_rish)
+-> [Group](https://t.me/world_of_unknown)
 
 **• To Know About Updates**
-  - Join @TeamUltroid.""",
+  - Join @about_rish.""",
     4: f"""• `To Know All Available Commands`
 
   - `{HNDLR}help`
   - `{HNDLR}cmds`""",
     5: """• **For Any Other Query or Suggestion**
-  - Move to **@UltroidSupportChat**.
+  - Move to **@world_of_unknown**.
 
 • Thanks for Reaching till END.""",
 }
