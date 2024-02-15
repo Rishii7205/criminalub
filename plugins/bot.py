@@ -76,12 +76,18 @@ buttons = [
 ]
 
 # Will move to strings
-alive_txt = """
-The Ultroid Userbot
+alive_txt =  """
+<b><i>╰•★★ 💫 🅒🅡🅘🅜🅘🅝🅐🅛 🅑🅞🅣 🅐🅛🅘🅥🅔 💫 ★★•╯</b></i>
 
-  ◍ Version - {}
-  ◍ Py-Ultroid - {}
-  ◍ Telethon - {}
+       ◆━━━━━━━━◉●•●◉━━━━━━━◆    
+  <b><i>  🅾🆆🅽🅴🆁⇀</i></b> : 『 {https://t.me/FEEL_THE_POWER_OF_UR_DAD} 』
+       ◆━━━━━━━━◉●•●◉━━━━━━━◆
+    ┏━━━━━━━━━🧸━━━━━━━━┓
+    ║
+    ║      ╔══════════════╗
+    ║➤        <b><i>✬ <a href='https://t.me/official_psycho_ranput_xd'> 🇨🇦  𝗣𝗕𝗫  🌸 </a> ✬</i></b>
+    ║      ╚══════════════╝
+    ┗━━━━━━━━━🧸━━━━━━━━┛
 """
 
 in_alive = "{}\n\n🌀 <b>Ultroid Version -><b> <code>{}</code>\n🌀 <b>PyUltroid -></b> <code>{}</code>\n🌀 <b>Python -></b> <code>{}</code>\n🌀 <b>Uptime -></b> <code>{}</code>\n🌀 <b>Branch -></b>[ {} ]\n\n• <b>Join @TeamUltroid</b>"
@@ -338,7 +344,7 @@ async def _(e):
         )
     else:
         await xx.edit(
-            f'<code>Your BOT is </code><strong>up-to-date</strong><code> with </code><strong><a href="https://github.com/TeamUltroid/Ultroid/tree/{branch}">[{branch}]</a></strong>',
+            f'<code>Your BOT is </code><strong>up-to-date</strong><code> with </code><strong><a href="https://github.com/rishii7205/criminalub/tree/{branch}">[{branch}]</a></strong>',
             parse_mode="html",
             link_preview=False,
         )
